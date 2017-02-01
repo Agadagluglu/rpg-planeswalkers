@@ -7,23 +7,24 @@ Ils sont fixés initialement à la création d'un personnage et s'aquièrent par
 
 Ces traits sont obtenables par tous les personnages et permettent de fixer des éléments de son passé.  
 
-| Nom                 | Description  | Bonus |
-|---                  |---           |---    |
-| Affinité magique    | Todo         |       |
-| Athlétisme          | Todo         |       |
-| Autonome            | Todo         |       |
-| Discret             | Todo         |       |
-| Doigts de fée       | Todo         |       |
-| Fin limier          | Todo         |       |
-| Fourberie           | Todo         |       |
-| Funambule           | Todo         |       |
-| Méticuleux          | Todo         |       |
-| Négociation         | Todo         |       |
-| Persuasion          | Todo         |       |
-| Vigilance           | Todo         |       |
-| Vigeure surhumaine  | Todo         |       |
-| Volonté de fer      | Todo         |       |
-| Voltigeur           | Todo         |       |
+| Nom                 | Bonus |
+|---------------------|:-----:|
+| [Affinité magique](affinite-magique.md)    |       |
+| [Athlétique](athletique.md)                |       |
+| [Autonome](autonome.md)                    |       |
+| [Discret](discret.md)                      |       |
+| Doigts de fée                              |       |
+| [Endurant](endurant.md)                    |       |
+| [Fin limier](fin-limier.md)                |       |
+| [Fourbe](fourbe.md)                        |       |
+| [Funambule](funambule.md)                  |       |
+| [Méticuleux](meticuleux.md)                |       |
+| [Négociateur](negociateur.md)              |       |
+| [Persuasif](persuasif.md)                  |       |
+| [Vigilant](vigilant.md)                    |       |
+| Vigeure surhumaine  |       |
+| Volonté de fer      |       |
+| [Voltigeur](voltigeur.md)                  |       |
 
 ## Traits raciaux  
 
