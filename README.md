@@ -2,9 +2,16 @@
 
 Planeswalker est un système de jeu de rôle "pen-and-paper".  
 
-Documentation : https://agadagluglu.github.io/rpg-planeswalkers/  
+## Plan du site :  
 
-### Carractéristiques :  
+### - [Personnages](personnages/index.md)
+### - [Compétences]()
+### - [Traits](traits/index.md)
+### - [Équipement]()
+### - [Magie]()
+### - [Combat]()  
+
+## Carractéristiques :  
 
 - Emphase sur le roleplay, dans un soucis de simplicité et de réalisme.  
 - Pas de classes prédéfinies, mais un ensemble de traits, compétences et styles de combat que le joueur peut adapter à sa guise.  
@@ -13,7 +20,7 @@ Documentation : https://agadagluglu.github.io/rpg-planeswalkers/
 - Minimisation de la part aléatoire des d20 au profit d'un système de succès.  
 
 
-### Comparaisons avec DnD 3.5 :  
+## Comparaison avec DnD 3.5 :  
 
 - La création et la gestion de personnage est beaucoup plus intuitive.  
 - La progréssion d'un personnage est estimée conjoitement entre le MJ et le joueur.  
