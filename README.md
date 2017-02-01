@@ -2,7 +2,7 @@
 
 - [Personnages](personnages/index.md)  
 - [Compétences]()  
-- [Traits](traits/index.md)  
+- [Traits](/traits/index.md)  
 - [Équipement]()  
 - [Magie]()  
 - [Combat]()  
