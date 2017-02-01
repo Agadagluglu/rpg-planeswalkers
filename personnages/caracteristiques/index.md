@@ -1,17 +1,27 @@
-# Les caractéristiques  
+# Les caractÃ©ristiques  
 
-Les caractéristiques aident à définir votre personnage et affectent la plupart de ses actions.  
+Les caractÃ©ristiques aident Ã  dÃ©finir votre personnage et affectent la plupart de ses actions.  
 
 - [Constitution](constitution.md)  
   
-- [Dextérité](dexterite.md)  
+- [DextÃ©ritÃ©](dexterite.md)  
   
 - [Espirt](esprit.md)  
   
-- [Volonté](volonte.md)  
+- [VolontÃ©](volonte.md)  
   
 - [Perception](perception.md)  
   
 - [Vitesse](vitesse.md)  
   
 - [Modificateurs](modificateurs.md)  
+
+## Les caractÃ©ristiques secondaires  
+
+## Les rÃ©sistances  
+
+## Les points de vie  
+
+## Les points de mana  
+
+## Les dÃ©s d'action  
