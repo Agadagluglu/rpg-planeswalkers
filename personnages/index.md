@@ -1,4 +1,4 @@
 # Personnages  
 
-- [Caractéristique](caracteristiques/index.md)  
+- [Caractéristiques](caracteristiques/index.md)  
 
