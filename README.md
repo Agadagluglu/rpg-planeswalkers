@@ -6,11 +6,17 @@ Planeswalker est un système de jeu de rôle "pen-and-paper".
 
 
 ### - [Personnages](personnages/index.md)  
+  
 ### - [Compétences]()  
+  
 ### - [Traits](traits/index.md)  
+  
 ### - [Équipement]()  
+  
 ### - [Magie]()  
+  
 ### - [Combat]()  
+  
 
 ## Carractéristiques :  
 
