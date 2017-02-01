@@ -1,4 +1,6 @@
-# [Home](/home.md) > Personnages  
+# [Home](README.md) > Personnages  
+  
+  
 
 - [Caractéristiques](caracteristiques/index.md)  
   
