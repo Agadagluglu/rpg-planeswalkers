@@ -18,6 +18,10 @@ Les caractéristiques aident à définir votre personnage et affectent la plupar
 
 ## Les caractéristiques secondaires  
 
+- [Tenacité](tenacite.md)  
+- [Réflexes](reflexes.md) 
+- []()  
+
 ## Les résistances  
 
 ## Les points de vie  
