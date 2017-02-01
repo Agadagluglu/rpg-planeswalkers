@@ -1,11 +1,17 @@
-# Les caractÃ©ristiques  
+# Les caractéristiques  
 
-Les caractÃ©ristiques aident Ã  dÃ©finir votre personnage et affectent la plupart de ses actions.  
+Les caractéristiques aident à définir votre personnage et affectent la plupart de ses actions.  
 
 - [Constitution](constitution.md)  
-- [DextÃ©ritÃ(dexterite.md)
+  
+- [Dextérité](dexterite.md)  
+  
 - [Espirt](esprit.md)  
-- [VolontÃ](volonte.md)  
+  
+- [Volonté](volonte.md)  
+  
 - [Perception](perception.md)  
+  
 - [Vitesse](vitesse.md)  
+  
 - [Modificateurs](modificateurs.md)  

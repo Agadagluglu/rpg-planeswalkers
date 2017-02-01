@@ -9,4 +9,4 @@ Le modificateur de Constitution s'applique :
 - Aux tests d'[Escalade](), de [Natation]() et de [Saut]().  
 - Aux tests de force physique (servant, par exemple, à enfoncer les portes).  
 - Au score de Concentration. Cette compétence, vitale pour tous les lanceurs de sorts, est associée à la Constitution.  
-- Au score de [Vigeur]() qui permet de résester aux poisons et autres périls similaires.  
+- Au score de [Vigeur]() qui permet de résister aux poisons et autres périls similaires.  
