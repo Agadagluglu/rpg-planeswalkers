@@ -1,4 +1,4 @@
-# [Home](rpg-planeswalkers) > Personnages  
+# [Home](/rpg-planeswalkers) > Personnages  
   
   
 
