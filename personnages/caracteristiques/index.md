@@ -8,21 +8,22 @@ Les caractéristiques aident à définir votre personnage et affectent la plupar
   
 - [Espirt](esprit.md)  
   
-- [Volonté](volonte.md)  
-  
 - [Perception](perception.md)  
-  
-- [Vitesse](vitesse.md)  
   
 - [Modificateurs](modificateurs.md)  
 
-## Les caractéristiques secondaires  
+# Les caractéristiques secondaires  
+
+### Les jets de sauvegarde
 
 - [Tenacité](tenacite.md)  
 - [Réflexes](reflexes.md) 
-- []()  
+- [Vigeur](vigeur.md)  
 
-## Les résistances  
+### Les résistances  
+  
+- [Résistance physique](resistances.md)  
+- [Résistance magique](resistances.md)  
 
 ## Les points de vie  
 
