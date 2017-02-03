@@ -1,6 +1,6 @@
-# Dextérité  
+# [Home](/rpg-planeswalkers) > [Personnages](/rpg-planeswalkers/personnages/) > [Les caractéristiques](/rpg-planeswalkers/personnages/caracteristiques/) > Dextérité  
 
-Dextérité (Dex)  
+**Dextérité (Dex)**  
 
 La Dextérité mesure l'agilité, les réflexes, la vitesse et l'équilibre de votre personnage.  
 

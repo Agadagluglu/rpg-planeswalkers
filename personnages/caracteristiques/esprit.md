@@ -1,6 +1,6 @@
-# Espirt  
+# [Home](/rpg-planeswalkers) > [Personnages](/rpg-planeswalkers/personnages/) > [Les caractéristiques](/rpg-planeswalkers/personnages/caracteristiques/) > Espirt  
 
-Esprit (Esp)  
+**Esprit (Esp)**  
 
 L'Esprit représente la raison, la volonté, la détermination ainsi que l'intelect de votre personnage.  
 

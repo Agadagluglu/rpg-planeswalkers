@@ -23,9 +23,9 @@ Le modificateur au jet de sauvegarde est égal à : modificateur de caractérist
 #### Types de jet de sauvegarde
 Il existe trois types de jets de sauvegarde : Réflexes, Vigueur et Tenacité.  
 
-- Jet de Tenacité. Ce type de jets de sauvegarde représente la faculté de se soustraire aux tentatives de domination et à d’autres effets magiques similaires. On y ajoute le modificateur d'Esprit.  
-- Jet de Réflexes. Ce type de jets de sauvegarde représente la faculté du personnage à esquiver de terribles attaques de zone. On y applique le modificateur de Dextérité.  
-- Jet de Vigueur. Ce type de jets de sauvegarde reflète la capacité du personnage à résister aux attaques mettant sa vitalité ou sa santé en danger. On y applique le modificateur de Constitution.  
+- **Jet de Tenacité.** Ce type de jets de sauvegarde représente la faculté de se soustraire aux tentatives de domination et à d’autres effets magiques similaires. On y ajoute le modificateur d'Esprit.  
+- **Jet de Réflexes.** Ce type de jets de sauvegarde représente la faculté du personnage à esquiver de terribles attaques de zone. On y applique le modificateur de Dextérité.  
+- **Jet de Vigueur.** Ce type de jets de sauvegarde reflète la capacité du personnage à résister aux attaques mettant sa vitalité ou sa santé en danger. On y applique le modificateur de Constitution.  
 
 ### Les résistances  
   

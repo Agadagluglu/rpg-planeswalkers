@@ -1,6 +1,6 @@
 # [Home](/rpg-planeswalkers) > [Personnages](/rpg-planeswalkers/personnages/) > [Les caractéristiques](/rpg-planeswalkers/personnages/caracteristiques/) > Constitution  
 
-Constitution (Con)  
+**Constitution (Con)**  
 
 La Constitution physique représente la puissance physique et musculaire ainsi que l'endurance et la santé de votre personnage.  
 
