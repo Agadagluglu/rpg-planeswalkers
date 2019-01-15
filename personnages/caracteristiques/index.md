@@ -2,7 +2,7 @@
 
 Les caractéristiques aident à définir votre personnage et affectent la plupart de ses actions.  
 
-- [Constitution](constitution.md)  
+- [Condition physique](condition-physique.md)  
   
 - [Dextérité](dexterite.md)  
   
@@ -10,6 +10,8 @@ Les caractéristiques aident à définir votre personnage et affectent la plupar
   
 - [Perception](perception.md)  
   
+- [Psyché](psyche.md)
+
 - [Modificateurs](modificateurs.md)  
 
 # Les caractéristiques secondaires  
